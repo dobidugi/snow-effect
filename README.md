@@ -1,6 +1,6 @@
 # snoweffect
 
-Under <body> tag import <div> tag and define id as "snow"
+Under "body" tag import "div" tag and define id as "snow"
 
 
 
