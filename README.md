@@ -1,4 +1,4 @@
-# snoweffect
+# snow effect
 
 Jquery simple snow effect code 
 
