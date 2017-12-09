@@ -1,6 +1,6 @@
 # snow effect
 
-Jquery simple snow effect code 
+Simple Jquery snow effect code 
 
 you should under "body" tag import "div" tag and define id as "snow"
 
